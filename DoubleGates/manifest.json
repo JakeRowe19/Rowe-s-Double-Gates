@@ -1,0 +1,9 @@
+{
+    "name": "Rowes_Double_Gates",
+    "version_number": "2.0",
+    "website_url": "https://github.com/JakeRowe19/Rowe-s-Double-Gates",
+    "description": "Automatically opens and closes paired gates as a synchronized double gate. Supports mirrored gate setups and instant state synchronization.",
+    "dependencies": [
+        "denikson-BepInExPack_Valheim-5.4.2333"
+    ]
+}

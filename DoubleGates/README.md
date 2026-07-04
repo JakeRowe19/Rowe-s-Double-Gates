@@ -1,0 +1,1 @@
+Rowe's Double Gates makes paired doors and gates behave as a single unit. Open one side and the matching adjacent side opens instantly, preserving mirrored opening directions for realistic double-gate behavior.
